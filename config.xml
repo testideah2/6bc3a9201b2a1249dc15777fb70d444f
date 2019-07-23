@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "ru.avia.host.app"
+    id          = "host.avia.poisk.app"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. Avia.host - авиабилеты и отели</name>
+<name>Avia.host - авиабилеты и отели</name>
 
 <description>
     Avia.host - поиск самых дешевых билетов и отелей по всему миру. Анализируем сотни авиаперевозчиков, агрегаторов билетов и отелей и предлагаем Вам самую дешевую цену.
